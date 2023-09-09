@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-o",
+      "main",
+      "main.c"
+    ],
+    "directory": "/home/ugo/work/context",
+    "file": "/home/ugo/work/context/main.c",
+    "output": "/home/ugo/work/context/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-o",
+      "main",
+      "glx.c"
+    ],
+    "directory": "/home/ugo/work/context",
+    "file": "/home/ugo/work/context/glx.c",
+    "output": "/home/ugo/work/context/main"
+  }
+]
